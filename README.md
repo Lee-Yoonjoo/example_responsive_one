@@ -1,4 +1,4 @@
-# example_responsive_one
+# A responsive Flutter app
 
 A new Flutter example project. responsive app from Deven Joshi
 
