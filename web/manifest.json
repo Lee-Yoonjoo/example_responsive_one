@@ -1,11 +1,11 @@
 {
-    "name": "example_reponsive_one",
-    "short_name": "example_reponsive_one",
+    "name": "example_responsive_one",
+    "short_name": "example_responsive_one",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter example project. Reponsive app from Deven Joshi",
+    "description": "A new Flutter example project. responsive app from Deven Joshi",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
