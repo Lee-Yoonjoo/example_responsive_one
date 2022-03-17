@@ -1,4 +1,4 @@
-import 'package:example_responsive_one/responsive_classic_method/stateful/DetailWidget.dart';
+import 'package:example_responsive_one/example_one/stateful/DetailWidget.dart';
 import 'package:flutter/material.dart';
 
 class DetailPage extends StatefulWidget {

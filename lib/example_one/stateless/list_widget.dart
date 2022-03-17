@@ -1,4 +1,4 @@
-import 'package:example_responsive_one/responsive_classic_method/stateless/detail_widget.dart';
+import 'package:example_responsive_one/example_one/stateless/detail_widget.dart';
 import 'package:example_responsive_one/home.dart';
 import 'package:flutter/material.dart';
 

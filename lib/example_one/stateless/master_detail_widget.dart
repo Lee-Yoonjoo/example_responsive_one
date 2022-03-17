@@ -1,6 +1,6 @@
 
-import 'package:example_responsive_one/responsive_classic_method/stateless/detail_widget.dart';
-import 'package:example_responsive_one/responsive_classic_method/stateless/list_widget.dart';
+import 'package:example_responsive_one/example_one/stateless/detail_widget.dart';
+import 'package:example_responsive_one/example_one/stateless/list_widget.dart';
 import 'package:flutter/material.dart';
 
 class MasterDetailWidget extends StatefulWidget {
