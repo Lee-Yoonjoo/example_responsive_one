@@ -1,5 +1,4 @@
-import 'package:example_responsive_one/example_one/stateless/detail_widget.dart';
-import 'package:example_responsive_one/home.dart';
+import 'package:example_responsive_one/example_media_query/stateless/detail_widget.dart';
 import 'package:flutter/material.dart';
 
 class ListWidget extends StatelessWidget {

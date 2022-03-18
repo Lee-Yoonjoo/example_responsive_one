@@ -1,7 +1,6 @@
-
-import 'package:example_responsive_one/example_one/simple/example_widget.dart';
-import 'package:example_responsive_one/example_one/stateful/MasterDetailPage.dart';
-import 'package:example_responsive_one/example_one/stateless/master_detail_widget.dart';
+import 'package:example_responsive_one/example_media_query/stateful/MasterDetailPage.dart';
+import 'package:example_responsive_one/example_media_query/stateless/master_detail_widget.dart';
+import 'package:example_responsive_one/example_layout_builder/main_page.dart';
 import 'package:flutter/material.dart';
 
 class Home extends StatefulWidget {
@@ -51,7 +50,19 @@ class _HomeState extends State<Home> {
               child: Text("Example_two_layout_builder"),
               onPressed: () {
                 Navigator.push(context, MaterialPageRoute(builder: (_) {
-                  return const ExampleTwoWidget();
+                  return MainPage();
+                }));
+              },
+            ),
+          ),
+
+          Center(
+            child: FlatButton(
+              color: Colors.grey,
+              child: Text("Example_complicated_widgets"),
+              onPressed: () {
+                Navigator.push(context, MaterialPageRoute(builder: (_) {
+                  return MainPage();
                 }));
               },
             ),

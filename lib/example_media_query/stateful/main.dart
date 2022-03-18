@@ -1,4 +1,4 @@
-import 'package:example_responsive_one/example_one/stateful/MasterDetailPage.dart';
+import 'package:example_responsive_one/example_media_query/stateful/MasterDetailPage.dart';
 import 'package:flutter/material.dart';
 
 

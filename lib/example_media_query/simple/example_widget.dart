@@ -1,5 +1,5 @@
 
-import 'package:example_responsive_one/example_one/simple/menu_widget.dart';
+import 'package:example_responsive_one/example_media_query/simple/menu_widget.dart';
 import 'package:flutter/material.dart';
 
 class ExampleTwoWidget extends StatelessWidget {
