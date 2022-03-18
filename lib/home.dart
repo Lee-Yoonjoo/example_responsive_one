@@ -1,6 +1,6 @@
 import 'package:example_responsive_one/example_media_query/stateful/MasterDetailPage.dart';
 import 'package:example_responsive_one/example_media_query/stateless/master_detail_widget.dart';
-import 'package:example_responsive_one/example_layout_builder/main_page.dart';
+import 'package:example_responsive_one/example_layout_builder/simple/main_page.dart';
 import 'package:flutter/material.dart';
 
 class Home extends StatefulWidget {

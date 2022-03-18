@@ -12,6 +12,13 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Responsive App ',
       theme: ThemeData(
         primarySwatch: Colors.blue,
+        visualDensity: VisualDensity.adaptivePlatformDensity
+
+        // There are minimumDensity -4.0 , maximumDensity 4.0, comfortable horizontal: -1.0, vertical: -1.0 , compact horizontal: -2.0, vertical: -2.0, standard horizontal: 0, vertical: 0.
+        //  with adaptivePlatformDensity Returns a visual density that is adaptive based on the [defaultTargetPlatform].
+        //  For desktop platforms, this returns [compact], and for other platforms,
+        //  it returns a default-constructed [VisualDensity].
+
       ),
 
       home: LayoutBuilder(

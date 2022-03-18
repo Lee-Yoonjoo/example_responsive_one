@@ -1,5 +1,5 @@
-import 'package:example_responsive_one/example_layout_builder/main_big.dart';
-import 'package:example_responsive_one/example_layout_builder/main_small.dart';
+import 'package:example_responsive_one/example_layout_builder/simple/main_big.dart';
+import 'package:example_responsive_one/example_layout_builder/simple/main_small.dart';
 import 'package:flutter/material.dart';
 
 class MainPage extends StatefulWidget {
